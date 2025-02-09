@@ -19,7 +19,8 @@ The system allows for real-time plotting of gas concentrations, displays air qua
   
   1) Good: Low levels of CO and CO2.  
   2) Moderate: Moderate levels of CO and CO2.  
-  3) Poor: High levels of CO and CO2.  
+  3) Poor: High levels of CO and CO2.
+     
 The air quality is displayed in the main window with specific sensor values.
 ## 4. Real-Time Plotting:
   Continuously updates the gas levels in a real-time plot, allowing for constant monitoring of air quality.
